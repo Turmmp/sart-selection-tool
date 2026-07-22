@@ -1,0 +1,911 @@
+{
+ "fuses": [
+  {
+   "code": "S0402-F",
+   "name": "0402 快断系列",
+   "pkg": "0402 (1.0×0.5mm)",
+   "char": "快熔 Fast Acting",
+   "voltage": "32V DC",
+   "currents": [
+    1,
+    1.5,
+    2,
+    2.5,
+    3,
+    3.5,
+    4,
+    5
+   ],
+   "items": [
+    "S0402-F-1A",
+    "S0402-F-1.5A",
+    "S0402-F-2A",
+    "S0402-F-2.5A",
+    "S0402-F-3A",
+    "S0402-F-3.5A",
+    "S0402-F-4A",
+    "S0402-F-5A"
+   ],
+   "datasheet": "1676254051260862oFE9.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/1676254051260862oFE9.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=46"
+  },
+  {
+   "code": "S0603-F",
+   "name": "0603 快断系列",
+   "pkg": "0603 (1.6×0.8mm)",
+   "char": "快熔 Fast Acting",
+   "voltage": "32V DC",
+   "currents": [
+    0.5,
+    0.75,
+    1,
+    1.5,
+    2,
+    2.5,
+    3,
+    3.5,
+    4,
+    5,
+    6
+   ],
+   "items": [
+    "S0603-F-0.5A",
+    "S0603-F-0.75A",
+    "S0603-F-1A",
+    "S0603-F-1.5A",
+    "S0603-F-2A",
+    "S0603-F-2.5A",
+    "S0603-F-3A",
+    "S0603-F-3.5A",
+    "S0603-F-4A",
+    "S0603-F-5A",
+    "S0603-F-6A"
+   ],
+   "datasheet": "S0603-F-Series-00-I-251209.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/S0603-F-Series-00-I-251209.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=36"
+  },
+  {
+   "code": "S0603-S",
+   "name": "0603 慢断系列",
+   "pkg": "0603 (1.6×0.8mm)",
+   "char": "慢熔 Slow Blow",
+   "voltage": "32V DC",
+   "currents": [
+    0.5,
+    0.75,
+    1,
+    1.5,
+    2,
+    2.5,
+    3,
+    3.5,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "items": [
+    "S0603-S-0.5A",
+    "S0603-S-0.75A",
+    "S0603-S-1A",
+    "S0603-S-1.5A",
+    "S0603-S-2A",
+    "S0603-S-2.5A",
+    "S0603-S-3A",
+    "S0603-S-3.5A",
+    "S0603-S-4A",
+    "S0603-S-5A",
+    "S0603-S-6A",
+    "S0603-S-7A",
+    "S0603-S-8A"
+   ],
+   "datasheet": "S0603-S-Series-00-L_20240827.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/S0603-S-Series-00-L_20240827.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=52"
+  },
+  {
+   "code": "S0603-SD",
+   "name": "0603 慢断高压系列",
+   "pkg": "0603 (1.6×0.8mm)",
+   "char": "慢熔 Slow Blow",
+   "voltage": "63V DC",
+   "currents": [
+    1,
+    1.5,
+    2,
+    2.5,
+    3,
+    3.5,
+    4,
+    5,
+    6
+   ],
+   "items": [
+    "S0603-SD-1A",
+    "S0603-SD-1.5A",
+    "S0603-SD-2A",
+    "S0603-SD-2.5A",
+    "S0603-SD-3A",
+    "S0603-SD-3.5A",
+    "S0603-SD-4A",
+    "S0603-SD-5A",
+    "S0603-SD-6A"
+   ],
+   "datasheet": "S0603-SD-Series-00-E_230510.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/S0603-SD-Series-00-E_230510.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=47"
+  },
+  {
+   "code": "S1206-F",
+   "name": "1206 快断系列",
+   "pkg": "1206 (3.10×1.55mm)",
+   "char": "快熔 Fast Acting",
+   "voltage": "32V DC",
+   "currents": [
+    0.5,
+    0.75,
+    1,
+    1.5,
+    2,
+    2.5,
+    3,
+    3.15,
+    3.5,
+    4,
+    5,
+    6,
+    7
+   ],
+   "items": [
+    "S1206-F-0.5A",
+    "S1206-F-0.75A",
+    "S1206-F-1A",
+    "S1206-F-1.5A",
+    "S1206-F-2A",
+    "S1206-F-2.5A",
+    "S1206-F-3A",
+    "S1206-F-3.15A",
+    "S1206-F-3.5A",
+    "S1206-F-4A",
+    "S1206-F-5A",
+    "S1206-F-6A",
+    "S1206-F-7A"
+   ],
+   "datasheet": "S1206-F-Series-00-I-251209.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/S1206-F-Series-00-I-251209.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=48"
+  },
+  {
+   "code": "S1206-S",
+   "name": "1206 慢断系列",
+   "pkg": "1206 (3.10×1.55mm)",
+   "char": "慢熔 Slow Blow",
+   "voltage": "32V DC",
+   "currents": [
+    0.5,
+    0.75,
+    1,
+    1.5,
+    2,
+    2.5,
+    3,
+    3.5,
+    4,
+    5,
+    6,
+    7
+   ],
+   "items": [
+    "S1206-S-0.5A",
+    "S1206-S-0.75A",
+    "S1206-S-1A",
+    "S1206-S-1.5A",
+    "S1206-S-2A",
+    "S1206-S-2.5A",
+    "S1206-S-3A",
+    "S1206-S-3.5A",
+    "S1206-S-4A",
+    "S1206-S-5A",
+    "S1206-S-6A",
+    "S1206-S-7A"
+   ],
+   "datasheet": "S1206-S-Series-00-I-251209.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/S1206-S-Series-00-I-251209.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=49"
+  },
+  {
+   "code": "S1206-SD",
+   "name": "1206 慢断高压系列",
+   "pkg": "1206 (3.10×1.55mm)",
+   "char": "慢熔 Slow Blow",
+   "voltage": "75V DC",
+   "currents": [
+    0.5,
+    0.75,
+    1,
+    1.5,
+    2,
+    2.5,
+    3,
+    3.15,
+    3.5,
+    4,
+    5,
+    6,
+    7
+   ],
+   "items": [
+    "S1206-SD-0.5A",
+    "S1206-SD-0.75A",
+    "S1206-SD-1A",
+    "S1206-SD-1.5A",
+    "S1206-SD-2A",
+    "S1206-SD-2.5A",
+    "S1206-SD-3A",
+    "S1206-SD-3.15A",
+    "S1206-SD-3.5A",
+    "S1206-SD-4A",
+    "S1206-SD-5A",
+    "S1206-SD-6A",
+    "S1206-SD-7A"
+   ],
+   "datasheet": "S1206-SD-Series-00-K_250304.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/S1206-SD-Series-00-K_250304.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=51"
+  },
+  {
+   "code": "S1206-FC",
+   "name": "1206 车规快断高压系列 (AEC-Q200)",
+   "pkg": "1206 (3.1×1.6mm)",
+   "char": "快熔 Fast Acting",
+   "voltage": "100V DC",
+   "currents": [
+    1,
+    1.5,
+    2,
+    2.5,
+    3,
+    3.5,
+    4,
+    5,
+    6
+   ],
+   "items": [
+    "S1206-FC-1A",
+    "S1206-FC-1.5A",
+    "S1206-FC-2A",
+    "S1206-FC-2.5A",
+    "S1206-FC-3A",
+    "S1206-FC-3.5A",
+    "S1206-FC-4A",
+    "S1206-FC-5A",
+    "S1206-FC-6A"
+   ],
+   "datasheet": "JS-S1206-FC-00_S1206-FC-Series-00-H_20230425.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/JS-S1206-FC-00_S1206-FC-Series-00-H_20230425.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=45"
+  },
+  {
+   "code": "S1206-FA-L",
+   "name": "1206 快断高电流系列 (8~15A)",
+   "pkg": "1206 (3.10×1.55mm)",
+   "char": "快熔 Fast Acting",
+   "voltage": "32V DC",
+   "currents": [
+    8,
+    10,
+    12,
+    15
+   ],
+   "items": [
+    "S1206-FA-8A",
+    "S1206-FA-10A",
+    "S1206-FA-12A",
+    "S1206-FA-15A"
+   ],
+   "datasheet": "S1206-FA-8A-15A-00-J-221029.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/S1206-FA-8A-15A-00-J-221029.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=50"
+  },
+  {
+   "code": "S1206-FA-H",
+   "name": "1206 快断高电流系列 (20~30A)",
+   "pkg": "1206 (3.1×1.6mm)",
+   "char": "快熔 Fast Acting",
+   "voltage": "48V DC",
+   "currents": [
+    20,
+    25,
+    30
+   ],
+   "items": [
+    "S1206-FA-20A",
+    "S1206-FA-25A",
+    "S1206-FA-30A"
+   ],
+   "datasheet": "S1206-FA-20A-30A-00-M_221029.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/S1206-FA-20A-30A-00-M_221029.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=50"
+  },
+  {
+   "code": "S1206-FG",
+   "name": "1206 高电流系列 (常规)",
+   "pkg": "1206 (3.1×1.6mm)",
+   "char": "高电流 High Current",
+   "voltage": "35V DC",
+   "currents": [
+    40,
+    45
+   ],
+   "items": [
+    "S1206-FG-40A",
+    "S1206-FG-45A"
+   ],
+   "datasheet": "S1206-FG-00-D_241203.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/S1206-FG-00-D_241203.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=44"
+  },
+  {
+   "code": "S1206-FG-830",
+   "name": "1206 慢断车规高电流系列 (AEC-Q200)",
+   "pkg": "1206 (3.1×1.6mm)",
+   "char": "慢熔 Slow Blow",
+   "voltage": "50V DC",
+   "currents": [
+    8,
+    10,
+    12,
+    15,
+    20,
+    25,
+    30
+   ],
+   "items": [
+    "S1206-FG-8A",
+    "S1206-FG-10A",
+    "S1206-FG-12A",
+    "S1206-FG-15A",
+    "S1206-FG-20A",
+    "S1206-FG-25A",
+    "S1206-FG-30A"
+   ],
+   "datasheet": "S1206-FG-8~30A-00-A_20250213.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/S1206-FG-8~30A-00-A_20250213.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=243"
+  },
+  {
+   "code": "S1032-F",
+   "name": "1032 快断系列",
+   "pkg": "1032 (10.25×3.20mm)",
+   "char": "快熔 Fast Acting",
+   "voltage": "100V DC",
+   "currents": [
+    20,
+    25,
+    30,
+    40,
+    50,
+    60
+   ],
+   "items": [
+    "S1032-F-20A",
+    "S1032-F-25A",
+    "S1032-F-30A",
+    "S1032-F-40A",
+    "S1032-F-50A",
+    "S1032-F-60A"
+   ],
+   "datasheet": "S1032-F-Series-00-O.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/S1032-F-Series-00-O.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=42"
+  },
+  {
+   "code": "S1032-FF",
+   "name": "1032 超快断系列",
+   "pkg": "1032 (10.25×3.20mm)",
+   "char": "超快熔 Very Quick Acting",
+   "voltage": "100V DC",
+   "currents": [
+    20,
+    25,
+    30,
+    40
+   ],
+   "items": [
+    "S1032-FF-20A",
+    "S1032-FF-25A",
+    "S1032-FF-30A",
+    "S1032-FF-40A"
+   ],
+   "datasheet": "S1032-FF-Series-00-C.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/S1032-FF-Series-00-C.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=43"
+  },
+  {
+   "code": "S1245-S",
+   "name": "1245 慢断系列",
+   "pkg": "1245 (12.10×4.50mm)",
+   "char": "慢熔 Slow Blow",
+   "voltage": "72~84V DC",
+   "currents": [
+    60
+   ],
+   "items": [
+    "S1245-S-60A"
+   ],
+   "datasheet": "S1245-S-Series-00-E.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/S1245-S-Series-00-E.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=41"
+  },
+  {
+   "code": "S1210-F",
+   "name": "1210 快断系列",
+   "pkg": "1210 (12.1×10.0mm)",
+   "char": "快熔 Fast Acting",
+   "voltage": "125V DC",
+   "currents": [
+    60,
+    70,
+    80,
+    90,
+    100,
+    125,
+    150
+   ],
+   "items": [
+    "S1210-F-60A",
+    "S1210-F-70A",
+    "S1210-F-80A",
+    "S1210-F-90A",
+    "S1210-F-100A",
+    "S1210-F-125A",
+    "S1210-F-150A"
+   ],
+   "datasheet": "S1210-F-Series.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/S1210-F_系列规格书20260302.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=240"
+  },
+  {
+   "code": "S6125-F",
+   "name": "6125 快断系列",
+   "pkg": "6125 (6.1×2.5mm)",
+   "char": "快熔 Fast Acting",
+   "voltage": "125V DC",
+   "currents": [
+    1,
+    1.25,
+    1.6,
+    2,
+    2.5,
+    3,
+    3.15,
+    4,
+    5,
+    6.3,
+    7,
+    8,
+    10,
+    12,
+    15
+   ],
+   "items": [
+    "S6125-F-1A",
+    "S6125-F-1.25A",
+    "S6125-F-1.6A",
+    "S6125-F-2A",
+    "S6125-F-2.5A",
+    "S6125-F-3A",
+    "S6125-F-3.15A",
+    "S6125-F-4A",
+    "S6125-F-5A",
+    "S6125-F-6.3A",
+    "S6125-F-7A",
+    "S6125-F-8A",
+    "S6125-F-10A",
+    "S6125-F-12A",
+    "S6125-F-15A"
+   ],
+   "datasheet": "S6125-F-Series-00-R_20240701.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/S6125-F-Series-00-R_20240701.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=40"
+  },
+  {
+   "code": "S6125-H",
+   "name": "6125 高抗浪涌系列",
+   "pkg": "6125 (6.1×2.5mm)",
+   "char": "慢熔/抗浪涌 High Inrush",
+   "voltage": "125V DC",
+   "currents": [
+    0.5,
+    1,
+    1.25,
+    1.5,
+    1.6,
+    2,
+    2.5,
+    3,
+    3.15,
+    3.5,
+    4,
+    5
+   ],
+   "items": [
+    "S6125-H-0.5A",
+    "S6125-H-1A",
+    "S6125-H-1.25A",
+    "S6125-H-1.5A",
+    "S6125-H-1.6A",
+    "S6125-H-2A",
+    "S6125-H-2.5A",
+    "S6125-H-3A",
+    "S6125-H-3.15A",
+    "S6125-H-3.5A",
+    "S6125-H-4A",
+    "S6125-H-5A"
+   ],
+   "datasheet": "S6125-H-Series-00-Q_20240701.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/S6125-H-Series-00-Q_20240701.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=39"
+  },
+  {
+   "code": "S6125-H2",
+   "name": "6125 抗浪涌高压系列",
+   "pkg": "6125 (6.1×2.5mm)",
+   "char": "慢熔/抗浪涌 High Inrush",
+   "voltage": "125V DC / 250V AC",
+   "currents": [
+    0.5,
+    1,
+    1.25,
+    1.5,
+    1.6,
+    2,
+    2.5,
+    3,
+    3.15,
+    3.5,
+    4,
+    5
+   ],
+   "items": [
+    "S6125-H2-0.5A",
+    "S6125-H2-1A",
+    "S6125-H2-1.25A",
+    "S6125-H2-1.5A",
+    "S6125-H2-1.6A",
+    "S6125-H2-2A",
+    "S6125-H2-2.5A",
+    "S6125-H2-3A",
+    "S6125-H2-3.15A",
+    "S6125-H2-3.5A",
+    "S6125-H2-4A",
+    "S6125-H2-5A"
+   ],
+   "datasheet": "1679559177743096aBU2.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/1679559177743096aBU2.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=3"
+  },
+  {
+   "code": "S6125-M2",
+   "name": "6125 抗浪涌高压系列 (Inrush)",
+   "pkg": "6125 (6.1×2.5mm)",
+   "char": "慢熔/抗浪涌 Inrush",
+   "voltage": "125V DC / 250V AC",
+   "currents": [
+    0.5,
+    1,
+    1.25,
+    1.5,
+    1.6,
+    2,
+    2.5,
+    3,
+    3.15,
+    3.5,
+    4,
+    5
+   ],
+   "items": [
+    "S6125-M2-0.5A",
+    "S6125-M2-1A",
+    "S6125-M2-1.25A",
+    "S6125-M2-1.5A",
+    "S6125-M2-1.6A",
+    "S6125-M2-2A",
+    "S6125-M2-2.5A",
+    "S6125-M2-3A",
+    "S6125-M2-3.15A",
+    "S6125-M2-3.5A",
+    "S6125-M2-4A",
+    "S6125-M2-5A"
+   ],
+   "datasheet": "S6125-M2-Series-00-O.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/S6125-M2-Series-00-O.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=4"
+  },
+  {
+   "code": "S7358-F",
+   "name": "7358 快断系列",
+   "pkg": "7358 (7.3×5.8×4.2mm)",
+   "char": "快熔 Fast Acting",
+   "voltage": "85V DC",
+   "currents": [
+    20,
+    30,
+    40,
+    50,
+    60,
+    80,
+    100,
+    125
+   ],
+   "items": [
+    "S7358-F-20A",
+    "S7358-F-30A",
+    "S7358-F-40A",
+    "S7358-F-50A",
+    "S7358-F-60A",
+    "S7358-F-80A",
+    "S7358-F-100A",
+    "S7358-F-125A"
+   ],
+   "datasheet": "1735888864798990O9cv.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/1735888864798990O9cv.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=37"
+  }
+ ],
+ "resistors": [
+  {
+   "code": "SMF",
+   "name": "SMF 低阻值系列 (合金箔)",
+   "type": "Metal Foil",
+   "packages": [
+    "0603",
+    "0805",
+    "1206",
+    "2010",
+    "2512"
+   ],
+   "r_min_mohm": 2,
+   "r_max_mohm": 200,
+   "power_w": "0.5~2.0W",
+   "tolerance": [
+    "±0.5%(D)",
+    "±1%(F)",
+    "±2%(G)",
+    "±5%(J)"
+   ],
+   "pn_pattern": "SMF-{pkg}-M-{power}-{tol}-{Rcode}-T",
+   "datasheet": "SMF_Series-00-W_260410.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/SMF_Series-00-W_260410.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=61"
+  },
+  {
+   "code": "SMB",
+   "name": "SMB 低阻值超薄系列 (合金箔)",
+   "type": "Metal Foil (超薄)",
+   "packages": [
+    "0402",
+    "0603",
+    "0805",
+    "1206"
+   ],
+   "r_min_mohm": 1,
+   "r_max_mohm": 68,
+   "power_w": "1/3~1W",
+   "tolerance": [
+    "±1%(F)",
+    "±1.5%(E)",
+    "±2%(G)"
+   ],
+   "pn_pattern": "SMB-{pkg}-A-{power}-{tol}-{Rcode}-T",
+   "datasheet": "SMB_Series-00-L_260410.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/SMB_Series-00-L_260410.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=60"
+  },
+  {
+   "code": "SMD",
+   "name": "SMD 低阻值低温漂系列 (合金箔)",
+   "type": "Metal Foil (低TCR)",
+   "packages": [
+    "0603",
+    "0805",
+    "1206",
+    "2010",
+    "2512",
+    "2817"
+   ],
+   "r_min_mohm": 2,
+   "r_max_mohm": 700,
+   "power_w": "0.5~5.0W",
+   "tolerance": [
+    "±0.5%(D)",
+    "±1%(F)",
+    "±1.5%(E)",
+    "±2%(G)"
+   ],
+   "pn_pattern": "SMD-{pkg}-A-{power}-{tol}-{Rcode}-T",
+   "datasheet": "SMD_Series-00-M.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/SMD_Series-00-M.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=59"
+  },
+  {
+   "code": "SMDA",
+   "name": "SMDA 车规低阻值低温漂系列 (AEC-Q200)",
+   "type": "Metal Foil (车规)",
+   "packages": [
+    "0805",
+    "1206",
+    "2512",
+    "2817"
+   ],
+   "r_min_mohm": 2,
+   "r_max_mohm": 330,
+   "power_w": "0.5~5.0W",
+   "tolerance": [
+    "±1%(F)",
+    "±1.5%(E)",
+    "±2%(G)"
+   ],
+   "pn_pattern": "SMDA-{pkg}-A-{power}-{tol}-{Rcode}-T",
+   "datasheet": "SMDA_Series-00-H-260209_J9brlB.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/SMDA_Series-00-H-260209_J9brlB.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=57"
+  },
+  {
+   "code": "SLT",
+   "name": "SLT 低阻值高稳定系列 (长电极四端)",
+   "type": "Metal Foil (长电极)",
+   "packages": [
+    "0603",
+    "1206"
+   ],
+   "r_min_mohm": 1,
+   "r_max_mohm": 25,
+   "power_w": "0.33~1.0W",
+   "tolerance": [
+    "±0.5%(D)",
+    "±1%(F)"
+   ],
+   "pn_pattern": "SLT-{pkg}-A-{power}-{tol}-{Rcode}-T",
+   "datasheet": "SLT_Series-00-E.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/SLT_Series-00-E.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=59"
+  },
+  {
+   "code": "SME",
+   "name": "SME 低阻值高功率系列 (长电极合金箔)",
+   "type": "Metal Foil (长电极)",
+   "packages": [
+    "0805",
+    "1206",
+    "2512"
+   ],
+   "r_min_mohm": 1,
+   "r_max_mohm": 50,
+   "power_w": "1~3W",
+   "tolerance": [
+    "±0.5%(D)",
+    "±1%(F)",
+    "±2%(G)"
+   ],
+   "pn_pattern": "SME-{pkg}-A-{power}-{tol}-{Rcode}-T",
+   "datasheet": "SME_Series-00-E_210804.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/SME_Series-00-E_210804.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=62"
+  },
+  {
+   "code": "SMA",
+   "name": "SMA 低阻值系列 (合金塑封)",
+   "type": "Metal Strip",
+   "packages": [
+    "2512"
+   ],
+   "r_min_mohm": 0.5,
+   "r_max_mohm": 50,
+   "power_w": "2~3W",
+   "tolerance": [
+    "±0.5%(D)",
+    "±1%(F)"
+   ],
+   "pn_pattern": "SMA-25-A-{power}-{tol}-{Rcode}-T",
+   "datasheet": "1686733207194984SyeB.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/1686733207194984SyeB.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=38"
+  },
+  {
+   "code": "SMR",
+   "name": "SMR 低阻值宽阻端系列 (合金塑封)",
+   "type": "Metal Strip",
+   "packages": [
+    "1206",
+    "2512"
+   ],
+   "r_min_mohm": 0.5,
+   "r_max_mohm": 500,
+   "power_w": "1~3W",
+   "tolerance": [
+    "±0.5%(D)",
+    "±1%(F)",
+    "±2%(G)",
+    "±5%(J)"
+   ],
+   "pn_pattern": "SMR-{pkg}-M-{power}-{tol}-{Rcode}-T-00",
+   "datasheet": "SMR_Series-00-Q_250820.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/SMR_Series-00-Q_250820.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=66"
+  },
+  {
+   "code": "SMS",
+   "name": "SMS 低阻值系列 (合金裸片)",
+   "type": "Shunt (裸片)",
+   "packages": [
+    "2512",
+    "3921",
+    "5931"
+   ],
+   "r_min_mohm": 0.1,
+   "r_max_mohm": 5,
+   "power_w": "3~7W",
+   "tolerance": [
+    "±0.5%(D)",
+    "±1%(F)",
+    "±2%(G)",
+    "±3%(H)",
+    "±5%(J)"
+   ],
+   "pn_pattern": "SMS-{pkg}-{mat}-{power}-{tol}-{Rcode}-T",
+   "datasheet": "SMS_Series-00-R-240422_xHGEZv.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/SMS_Series-00-R-240422_xHGEZv.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=67"
+  },
+  {
+   "code": "SMSP",
+   "name": "SMSP 低阻值高功率系列 (合金裸片)",
+   "type": "Shunt (裸片高功率)",
+   "packages": [
+    "2512",
+    "3921",
+    "5931"
+   ],
+   "r_min_mohm": 0.1,
+   "r_max_mohm": 5,
+   "power_w": "5~15W",
+   "tolerance": [
+    "±1%(F)",
+    "±2%(G)",
+    "±5%(J)"
+   ],
+   "pn_pattern": "SMSP-{pkg}-{mat}-{power}-{tol}-{Rcode}-T",
+   "datasheet": "SMSP_Series-00-G-250728.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/SMSP_Series-00-G-250728.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=65"
+  },
+  {
+   "code": "SMSAP",
+   "name": "SMSAP 车规低阻值高功率系列 (AEC-Q200)",
+   "type": "Shunt (裸片车规)",
+   "packages": [
+    "2512",
+    "3921",
+    "5931"
+   ],
+   "r_min_mohm": 0.2,
+   "r_max_mohm": 5,
+   "power_w": "5~15W",
+   "tolerance": [
+    "±0.5%(D)",
+    "±1%(F)",
+    "±2%(G)",
+    "±5%(J)"
+   ],
+   "pn_pattern": "SMSAP-{pkg}-{mat}-{power}-{tol}-{Rcode}-T",
+   "datasheet": "SMSAP_Series-00-K-251009.pdf",
+   "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/SMSAP_Series-00-K-251009.pdf",
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=64"
+  }
+ ]
+}
