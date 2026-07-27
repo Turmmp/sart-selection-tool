@@ -681,7 +681,8 @@
    "pn_pattern": "SMF-{pkg}-M-{power}-{tol}-{Rcode}-T",
    "datasheet": "SMF_Series-00-W_260410.pdf",
    "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/SMF_Series-00-W_260410.pdf",
-   "datasheet_page": "https://www.sartfuse.com/page12?product_id=61"
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=61",
+   "tcr_range": "±50~±200 ppm/℃（阻值越小TCR通常越大）"
   },
   {
    "code": "SMB",
@@ -704,7 +705,8 @@
    "pn_pattern": "SMB-{pkg}-A-{power}-{tol}-{Rcode}-T",
    "datasheet": "SMB_Series-00-L_260410.pdf",
    "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/SMB_Series-00-L_260410.pdf",
-   "datasheet_page": "https://www.sartfuse.com/page12?product_id=60"
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=60",
+   "tcr_range": "±50~±150 ppm/℃（阻值越小TCR通常越大）"
   },
   {
    "code": "SMD",
@@ -730,7 +732,8 @@
    "pn_pattern": "SMD-{pkg}-A-{power}-{tol}-{Rcode}-T",
    "datasheet": "SMD_Series-00-M.pdf",
    "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/SMD_Series-00-M.pdf",
-   "datasheet_page": "https://www.sartfuse.com/page12?product_id=59"
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=59",
+   "tcr_range": "±50~±100 ppm/℃（阻值越小TCR通常越大）"
   },
   {
    "code": "SMDA",
@@ -753,7 +756,8 @@
    "pn_pattern": "SMDA-{pkg}-A-{power}-{tol}-{Rcode}-T",
    "datasheet": "SMDA_Series-00-H-260209_J9brlB.pdf",
    "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/SMDA_Series-00-H-260209_J9brlB.pdf",
-   "datasheet_page": "https://www.sartfuse.com/page12?product_id=57"
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=57",
+   "tcr_range": "±50~±75 ppm/℃"
   },
   {
    "code": "SLT",
@@ -773,7 +777,8 @@
    "pn_pattern": "SLT-{pkg}-A-{power}-{tol}-{Rcode}-T",
    "datasheet": "SLT_Series-00-E.pdf",
    "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/SLT_Series-00-E.pdf",
-   "datasheet_page": "https://www.sartfuse.com/page12?product_id=59"
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=59",
+   "tcr_range": "±50~±100 ppm/℃"
   },
   {
    "code": "SME",
@@ -795,7 +800,8 @@
    "pn_pattern": "SME-{pkg}-A-{power}-{tol}-{Rcode}-T",
    "datasheet": "SME_Series-00-E_210804.pdf",
    "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/SME_Series-00-E_210804.pdf",
-   "datasheet_page": "https://www.sartfuse.com/page12?product_id=62"
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=62",
+   "tcr_range": "±50~±100 ppm/℃"
   },
   {
    "code": "SMA",
@@ -814,7 +820,8 @@
    "pn_pattern": "SMA-25-A-{power}-{tol}-{Rcode}-T",
    "datasheet": "1686733207194984SyeB.pdf",
    "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/1686733207194984SyeB.pdf",
-   "datasheet_page": "https://www.sartfuse.com/page12?product_id=38"
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=38",
+   "tcr_range": "±50~±160 ppm/℃（阻值越小TCR通常越大）"
   },
   {
    "code": "SMR",
@@ -836,7 +843,8 @@
    "pn_pattern": "SMR-{pkg}-M-{power}-{tol}-{Rcode}-T-00",
    "datasheet": "SMR_Series-00-Q_250820.pdf",
    "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/SMR_Series-00-Q_250820.pdf",
-   "datasheet_page": "https://www.sartfuse.com/page12?product_id=66"
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=66",
+   "tcr_range": "±50~±100 ppm/℃"
   },
   {
    "code": "SMS",
@@ -860,7 +868,8 @@
    "pn_pattern": "SMS-{pkg}-{mat}-{power}-{tol}-{Rcode}-T",
    "datasheet": "SMS_Series-00-R-240422_xHGEZv.pdf",
    "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/SMS_Series-00-R-240422_xHGEZv.pdf",
-   "datasheet_page": "https://www.sartfuse.com/page12?product_id=67"
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=67",
+   "tcr_range": "±75~±300 ppm/℃（因合金材质而异：FeCr最优约±75，MnCu约±150，CuMnSn约±300）"
   },
   {
    "code": "SMSP",
@@ -882,7 +891,8 @@
    "pn_pattern": "SMSP-{pkg}-{mat}-{power}-{tol}-{Rcode}-T",
    "datasheet": "SMSP_Series-00-G-250728.pdf",
    "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/SMSP_Series-00-G-250728.pdf",
-   "datasheet_page": "https://www.sartfuse.com/page12?product_id=65"
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=65",
+   "tcr_range": "±75~±150 ppm/℃（因合金材质而异：FeCr/Karma优于MnCu）"
   },
   {
    "code": "SMSAP",
@@ -905,7 +915,8 @@
    "pn_pattern": "SMSAP-{pkg}-{mat}-{power}-{tol}-{Rcode}-T",
    "datasheet": "SMSAP_Series-00-K-251009.pdf",
    "datasheet_url": "https://aosspic10001.websiteonline.cn/pro45a55338/doc/SMSAP_Series-00-K-251009.pdf",
-   "datasheet_page": "https://www.sartfuse.com/page12?product_id=64"
+   "datasheet_page": "https://www.sartfuse.com/page12?product_id=64",
+   "tcr_range": "±75~±150 ppm/℃（因合金材质而异：FeCr/Karma优于MnCu）"
   }
  ]
 }
